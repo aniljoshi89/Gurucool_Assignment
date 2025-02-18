@@ -32,7 +32,6 @@ Before running the app, ensure you have the following installed:
 
 ```sh
 git clone https://github.com/aniljoshi89/Gurucool_Assignment.git
-cd guru
 ```
 
 ### 2️⃣ Install Dependencies
