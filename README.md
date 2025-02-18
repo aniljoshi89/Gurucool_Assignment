@@ -42,14 +42,8 @@ For Android, make sure to link vector icons manually if necessary:
 npx react-native link react-native-vector-icons
 
 Development Dependencies
-
 Babel & ESLint:
-
 npm install --save-dev @babel/core @babel/preset-env @babel/runtime eslint prettier
-
-Testing:
-
-npm install --save-dev jest @types/jest react-test-renderer @types/react-test-renderer
 
 Building APK
 To generate a debug APK:
