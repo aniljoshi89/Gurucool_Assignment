@@ -18,7 +18,7 @@ Physical Device or Emulator setup
 Installation & Running the App Locally
 
 Clone the repository:
-git clone https://github.com/your-repo/guru.git
+git clone https://github.com/aniljoshi89/Gurucool_Assignment.git
 cd guru
 
 Install dependencies:
