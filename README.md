@@ -1,61 +1,91 @@
-# Gurucool_Assignment
+# 🚀 Gurucool Assignment
 
-Guru App :
-A React Native mobile application with bottom tab navigation using React Navigation.
+## 📱 Guru App
+A sleek and modern **React Native** mobile application featuring **Bottom Tab Navigation** powered by **React Navigation**.
 
-Features
-Bottom Tab Navigation (Home, Settings, Profile)
-Uses React Native Vector Icons for tab icons
+---
+## ✨ Features
+- 🏠 **Home, Settings, and Profile Screens**
+- 🎨 **Customizable Bottom Tab Navigation**
+- 🎭 **React Native Vector Icons for a Better UI Experience**
 
-Prerequisites :
-Ensure you have the following installed before running the app:
-Node.js (>=18)
-React Native CLI
-Android Studio (for Android development)
-JDK 11 or higher
-Physical Device or Emulator setup
+---
+## 🔧 Prerequisites
+Before running the app, ensure you have the following installed:
+- ✅ **Node.js** (>=18)
+- ✅ **React Native CLI**
+- ✅ **Android Studio** (for Android development)
+- ✅ **JDK 11 or higher**
+- ✅ **Physical Device or Emulator Setup**
 
-Installation & Running the App Locally
+---
+## 🚀 Installation & Running the App Locally
 
-Clone the repository:
+### 1️⃣ Clone the Repository
+```sh
 git clone https://github.com/aniljoshi89/Gurucool_Assignment.git
 cd guru
+```
 
-Install dependencies:
+### 2️⃣ Install Dependencies
+```sh
 npm install
+```
 
-Start Metro bundler:
+### 3️⃣ Start Metro Bundler
+```sh
 npm run start
+```
 
-Run the app on Android:
+### 4️⃣ Run the App on Android
+```sh
 npm run android
+```
 
-Dependencies
-The following libraries are used in the app:
-React Navigation:
+---
+## 📦 Dependencies
+### 🔹 Core Navigation Libraries
+```sh
 npm install @react-navigation/native @react-navigation/bottom-tabs @react-navigation/native-stack
-
-Additional dependencies:
+```
+### 🔹 Additional Dependencies
+```sh
 npm install react-native-safe-area-context react-native-screens react-native-vector-icons
-
-For Android, make sure to link vector icons manually if necessary:
+```
+### 🔹 Vector Icons Linking (If Required)
+```sh
 npx react-native link react-native-vector-icons
+```
 
-Development Dependencies
-Babel & ESLint:
+---
+## 🛠 Development Dependencies
+### 🔹 Babel & ESLint
+```sh
 npm install --save-dev @babel/core @babel/preset-env @babel/runtime eslint prettier
+```
 
-Building APK
-To generate a debug APK:
+---
+## 📦 Building APK
+### Generate a Debug APK
+```sh
 cd android
 ./gradlew assembleDebug
-
-The generated APK will be found at:
+```
+📂 The generated APK will be found at:
+```
 android/app/build/outputs/apk/debug/app-debug.apk
+```
 
-Additional Notes
-The app uses React Native Vector Icons for tab icons.
-Ensure Android Studio is set up correctly with SDK 30+.
-If running on a real device, enable USB Debugging in Developer Options.
+---
+## 📌 Additional Notes
+- 🚀 **Uses React Native Vector Icons for enhanced UI.**
+- 🔧 **Ensure Android Studio is set up with SDK 30+.**
+- 📱 **Enable USB Debugging on a real device for testing.**
 
-Author: Anil Joshi
+---
+## 👨‍💻 Author
+ Anil Joshi
+ 
+
+
+
